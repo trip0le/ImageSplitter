@@ -1,0 +1,8 @@
+//set of improvements done : 
+// 1. threading (producer - consumer problem) : subscriber - consumer, publisher - producer, buffer - set of files chosen (the directory)
+// 2. publisher-subscriber, 
+// 3. selecting a folder and making a screen-saver (1s gap, keeps repeating in a circular manner) 
+// 4. pixel traversal in O(N) 
+// 5. using ARGB instead of RGB
+// 6. directly paiting in JPanel 
+// 7. DRY in imagesplitting function
